@@ -40,7 +40,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         await update.message.reply_text(
 
-            "🔐 *YOU MUST JOIN THE CHANNEL TO USE THIS BOT!*\n\n👉 JOIN HERE: [TEAM BLACK HAT](https://t.me/team_black_hat786)",
+            "🔐 *YOU MUST JOIN THE CHANNEL TO USE THIS BOT!*\n\n👉 JOIN HERE: [ESHA LINKS](https://t.me/EshaLinks1)",
 
             parse_mode="Markdown",
 
